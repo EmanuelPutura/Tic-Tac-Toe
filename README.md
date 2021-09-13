@@ -4,3 +4,13 @@
  ![Game](https://github.com/EmanuelPutura/Tic-Tac-Toe/blob/main/img/game.png)
  
  
+## Setup
+ 1. Clone the repo:
+    ```sh
+    $ git clone https://github.com/EmanuelPutura/Tic-Tac-Toe
+    ```
+ 2. From the project's location:
+    ```sh
+    $ cd ./TicTacToeGame/bin/Release
+    $ TicTacToeGame.exe
+    ```

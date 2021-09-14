@@ -1,7 +1,8 @@
 # Tic-Tac-Toe
  A singleplayer/multiplayer GUI Tic-Tac-Toe game, providing a competitive AI for the singleplayer mode, based on the minimax algorithm.
 
- ![Game](https://github.com/EmanuelPutura/Tic-Tac-Toe/blob/main/img/game.png)
+ <!-- ![Game](https://github.com/EmanuelPutura/Tic-Tac-Toe/blob/main/img/game.png) -->
+ <p align="center"> <img src="https://github.com/EmanuelPutura/Tic-Tac-Toe/blob/main/img/game.png" height="400"/> </p>
  
  
 ## Setup
